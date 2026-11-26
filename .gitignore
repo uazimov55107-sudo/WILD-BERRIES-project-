@@ -1,0 +1,15 @@
+.gradle/
+**/build/
+local.properties
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.pem
+*.key
+secrets/
+__pycache__/
+*.pyc
+.DS_Store
+backend/security_agent/events.jsonl
